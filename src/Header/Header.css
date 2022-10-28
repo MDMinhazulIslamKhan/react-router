@@ -1,0 +1,13 @@
+.header {
+    padding: 5px;
+}
+
+.header a {
+    margin-right: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.header a:hover {
+    color: rgb(65, 14, 109);
+}
